@@ -32,6 +32,9 @@ PATCH http://localhost:12345/movies/dcdd0fad-a94c-4810-8acc-5f108d3b18c3
 Content-Type: application/json
 
 {
-  "year" : 1999
+  "year" : 1996
 }
+
+### borar pelicula
+DELETE http://localhost:12345/movies/dcdd0fad-a94c-4810-8acc-5f108d3b18c3
 
